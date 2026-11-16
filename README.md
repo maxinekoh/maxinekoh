@@ -1,6 +1,6 @@
 ## I’m Maxine
 
-Like many people, I got into crypto in 2022 because I wanted to understand the economics of Bitcoin and why people felt it needed to exist. I have a Bachelor of Business from NTU and am now pursuing my MSc in Blockchain there. I’m particularly interested in DeFi, blockchain security, and on-chain forensics.
+What drew me to crypto in 2022 was Bitcoin. I was fascinated by how its economic rules were designed and what they challenged about the way we think about money. I have a Bachelor of Business from NTU and am now pursuing my MSc in Blockchain there. I’m particularly interested in DeFi, blockchain security, and on-chain forensics.
 
 ### Selected work
 
