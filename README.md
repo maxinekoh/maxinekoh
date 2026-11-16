@@ -1,6 +1,6 @@
 ## Hi, I’m Maxine
 
-I got into crypto in 2022 while I was studying business. I was curious about the economics of Bitcoin and wanted to understand why anyone felt we needed it in the first place. I’m now doing my master’s in blockchain at NTU.
+I got into crypto in 2022 while I was studying my bachelor's in business. I was curious about the economics of Bitcoin and wanted to understand why anyone felt we needed it in the first place. I’m now doing my master’s in blockchain at NTU.
 
 I spend a lot of my time reading and pulling apart what I read. I tend to follow whatever question catches my attention, even when it takes me outside blockchain. Sometimes I write about what I’ve learned or build a small thing to see how it works.
 
