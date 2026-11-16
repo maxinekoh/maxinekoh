@@ -1,9 +1,11 @@
-## Hi, I’m Maxine
+## I’m Maxine
 
-I got into crypto in 2022 while I was studying my bachelor's in business. I was curious about the economics of Bitcoin and wanted to understand why anyone felt we needed it in the first place. I’m now doing my master’s in blockchain at NTU.
+Like many people, I got into crypto in 2022 because I wanted to understand the economics of Bitcoin and why people felt it needed to exist. I have a Bachelor of Business from NTU and am now pursuing my MSc in Blockchain there. I’m particularly interested in DeFi, blockchain security, and on-chain forensics.
 
-I spend a lot of my time reading and pulling apart what I read. I tend to follow whatever question catches my attention, even when it takes me outside blockchain. Sometimes I write about what I’ve learned or build a small thing to see how it works.
+### Selected work
 
-Some of that work is here if you’re curious. [ADL Hedge Analysis](https://github.com/maxinekoh/adl-hedge-analysis) has my paper, a reading guide, and a notebook that follows up on one of the examples. [FairHold](https://github.com/maxinekoh/SC6113-Individual-DApps) is the escrow app I built on Sepolia.
+- **ADL Hedge Analysis.** I wrote a paper and companion guide on how auto-deleveraging can disrupt a hedge in perpetual futures markets. The Python notebook builds on the paper by modeling how much of a hedge needs to be restored to stay within a loss limit. [Paper, guide, and notebook](https://github.com/maxinekoh/adl-hedge-analysis)
+- **Beyond Traceability.** I co-authored an NTU paper on how to verify cross-chain transaction matches. We compared five tracing systems and used the Multichain incident to illustrate where the available evidence can fall short.
+- **FairHold.** I built a Solidity escrow prototype on Ethereum’s Sepolia testnet to explore how smart contracts handle payment releases and refunds for freelance work. [Project repository](https://github.com/maxinekoh/SC6113-Individual-DApps)
 
 [Find me on LinkedIn](https://www.linkedin.com/in/maxine-koh-xy)
